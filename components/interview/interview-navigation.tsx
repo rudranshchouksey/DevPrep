@@ -17,6 +17,9 @@ const topics = [
   { name: "DevOps", href: "/interview/devops" },
   { name: "Data Structures", href: "/interview/data-structures" },
   { name: "Algorithms", href: "/interview/algorithms" },
+  { name: "Machine Learning", href: "/interview/machine-learning" },
+  { name: "MLOps", href: "/interview/mlops" },
+  { name: "Deep Learning", href: "/interview/deep-learning" },
 ]
 
 export function InterviewNavigation() {

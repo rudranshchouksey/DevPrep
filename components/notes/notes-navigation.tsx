@@ -15,6 +15,12 @@ const topics = [
   { name: "Tailwind CSS", href: "/notes/tailwind" },
   { name: "Databases", href: "/notes/databases" },
   { name: "DevOps", href: "/notes/devops" },
+  { name: "Data Structures", href: "/notes/data-structures" },
+  { name: "Algorithms", href: "/notes/algorithms" },
+  { name: "System Design", href: "/notes/system-design" },
+  { name: "Machine Learning", href: "/notes/machine-learning" },
+  { name: "MLOps", href: "/notes/mlops" },
+  { name: "Deep Learning", href: "/notes/deep-learning" },
 ]
 
 export function NotesNavigation() {
